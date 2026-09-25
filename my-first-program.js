@@ -1,0 +1,10 @@
+"use strict";
+let name;
+name = "Chimamanda";
+let age;
+age = 19;
+let school;
+school = "covenant university";
+let message;
+message = "Miss" + name + " is a student of " + school + " and she is " + age;
+console.log(message);
